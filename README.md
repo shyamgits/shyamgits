@@ -31,11 +31,11 @@
 ### 🚀 Featured Projects
 > *Production-ready setups showcasing automated infrastructure, security, and zero-downtime deployments.*
 
-* **[aws-secure-vpc-terraform](https://github.com/shyamgits)** *(Coming Soon)*
+* **[aws-secure-vpc-terraform](https://github.com/shyamgits)**
   * Modular Terraform code establishing a 3-tier AWS architecture with secure private subnets and automated state management.
-* **[github-actions-zero-downtime-deploy](https://github.com/shyamgits)** *(Coming Soon)*
-  * Automated CI/CD pipeline handling container builds, testing, and rolling deployments.
-* **[cloud-cost-audit-script](https://github.com/shyamgits)** *(Coming Soon)*
+* **[github-actions-zero-downtime-deploy](https://github.com/shyamgits/github-actions-zero-downtime-deploy)**
+  * Automated CI/CD pipeline handling container builds, testing, and zero-downtime deployments.
+* **[cloud-cost-audit-script](https://github.com/shyamgits/cloud-cost-audit-script)**
   * Lightweight utility to scan and identify idle cloud resources to optimize monthly infrastructure spend.
 
 ---
